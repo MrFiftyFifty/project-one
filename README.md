@@ -1,4 +1,4 @@
-# Project One - Frontend Задания
+# Таским
 
 Веб-приложение на Next.js и TypeScript.
 
